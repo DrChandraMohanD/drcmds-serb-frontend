@@ -59,7 +59,7 @@ const CollaboratorsAndContributors = () => {
                 name: "Meghana",
                 role: "Developer",
                 img: "/profiles/meghna.jpg",
-                link: "#"
+                link: "https://www.linkedin.com/in/meghana-maganti-606497230/"
               },
             ].map((member, index) => (
               <div key={index} className="bg-white rounded-lg p-4 shadow-md hover:shadow-xl transition-shadow border border-gray-100 flex flex-col h-full min-h-0">
